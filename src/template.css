@@ -1,0 +1,29 @@
+:root {
+    height: 100vh;
+    width: 100vw;
+}
+body {
+    background-color: rgb(255, 217, 237);
+}
+.header-main {
+    
+}
+.navbar {
+    display: flex;
+    background-color: rgb(255, 207, 233);
+    justify-content: center;
+    gap: 50px;
+    height: 15vh;
+    margin: 40px;
+    border-radius: 20px;
+}
+button {
+    margin: 25px;
+    background-color: rgb(255, 223, 105); 
+    color: black;
+    border: none;
+    width: 20vw;
+    border-radius: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+    cursor: pointer;
+}
