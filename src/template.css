@@ -23,4 +23,17 @@ button {
     border-radius: 20px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
     cursor: pointer;
+    font-weight: bold;
+}
+#content {
+    display: flex;
+    flex-direction: column;
+    margin: 30px 70px 30px 70px ;
+    background-color: rgb(255, 207, 233);
+    border-radius: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
 }
