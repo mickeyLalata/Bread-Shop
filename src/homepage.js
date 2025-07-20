@@ -1,5 +1,3 @@
-import './homepage.css';
-
 export default function homepage () {
     const content = document.getElementById('content');
     content.innerHTML = '';

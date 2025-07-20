@@ -1,6 +1,8 @@
 import './template.css';
 
 import homepage from './homepage.js';
+import aboutpage from './about.js';
+import menupage from './menu.js';
 
 function navigation(){
     const buttons = document.querySelectorAll('nav button');
